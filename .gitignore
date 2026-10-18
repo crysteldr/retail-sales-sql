@@ -1,0 +1,4 @@
+# Raw data and database are too big for GitHub; scripts/01_load_data.py rebuilds them
+data/
+__pycache__/
+.ipynb_checkpoints/
